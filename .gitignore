@@ -1,0 +1,62 @@
+# Claude
+.claude
+
+# Gradle
+.gradle
+gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+local.properties
+
+# Build outputs
+*/build/
+build/
+app/build/
+core/build/
+
+# APK outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Generated files
+*.class
+*.hprof
+*.log
+*.pack
+*.pack.gz
+*.patch
+*.smali
+
+# Native
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+
+# Kotlin
+*.kotlin_module
+*.k2
+*.kclass
+
+# Heap and profiling
+*.hprof
+*.prof
+
+# Testing
+instrumentation/
+test-result/
+test-reports/
+
+# Misc
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+*~

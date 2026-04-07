@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "kotlin.kotlin",
+    "ms-android-studio.vscode-android",
+    "richardwillis.vscode-kotlin-analyzer",
+    "fwcd.kotlin-debug-adapter",
+    "fwcd.kathik",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
